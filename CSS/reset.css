@@ -21,3 +21,11 @@ html {
     max-width: 100%;
     height: auto;
   }
+
+
+  * {
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+    box-sizing: border-box;
+  }
